@@ -1,4 +1,4 @@
-# 你好，同学。 Hello There.![avatar](https://img.shields.io/badge/-Verilog-brightgreen)![avatar](https://img.shields.io/badge/-CPP-blue) 
+# 你好，同学。 Hello There. 
 
 这里是山大羊的自我介绍环节。 This is shanDayang's self-introduction.
 
@@ -13,6 +13,9 @@ I love learning everything I don't know, and I am actively participating in vari
 
 🎬：我同时是一名电影爱好者，看过豆瓣TOP250及IMDbtop250的所有电影
 I am also a movie lover and have watched all the movies on Douban TOP250 and IMDbtop250.
+
+
+![avatar](https://img.shields.io/badge/-Verilog-brightgreen)![avatar](https://img.shields.io/badge/-CPP-blue)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanyangS&show_icons=true&theme=radical)
