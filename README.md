@@ -1,5 +1,4 @@
-# 你好，同学。 Hello There.![avatar](https://img.shields.io/badge/-Verilog-brightgreen)   ![avatar]([https://img.shields.io/badge/-Verilog-brightgreen](https://img.shields.io/badge/-C%2B%2B-blue))
-
+# 你好，同学。 Hello There.![avatar](https://img.shields.io/badge/-Verilog-brightgreen)![avatar](https://img.shields.io/badge/-CPP-blue) 
 
 这里是山大羊的自我介绍环节。 This is shanDayang's self-introduction.
 
